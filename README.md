@@ -22,6 +22,8 @@ So, you must connect an external storage device tou your Raspberry PI with stora
 You can have more information [here](https://www.makeuseof.com/tag/connect-hdd-raspberry-pi/).
 
 ## RPi Monitor
+![RPi Monitor logo](./images/rpi_monitor.png "RPi Monitor logo")
+
 RPi Monitor is a web-based application, allow monitoring all important information that you want from your Raspberry PI (CPU, RAM, etc).
 
 This application provide a base template with pre-configured metrics. However, you can totally change this template. You can add new metrics, edit and/or remove existing ones.
@@ -29,6 +31,8 @@ This application provide a base template with pre-configured metrics. However, y
 You can have more information [here](https://github.com/XavierBerger/RPi-Monitor).
 
 ## Plex Media Server
+![Plex logo](./images/plex.png "Plex logo")
+
 Plex Media Server is a media files manager that allow centralize all your media files in one place and you can access them by any client device.
 
 Server stream files content directly to the client. You can have multiple clients connect to server, what means you don't need have multiple copies of the same file across your devices.
@@ -38,6 +42,8 @@ The interface of server is web-based, what is perfect to be installed in servers
 You can have more information [here](https://pimylifeup.com/raspberry-pi-plex-server/).
 
 ## Transmission
+![Transmission logo](./images/transmission.png "Transmission logo")
+
 Transmission is one of the best torrent client.
 Is a ligthweigth application, what is perfect to execute in machines with few resources.
 
